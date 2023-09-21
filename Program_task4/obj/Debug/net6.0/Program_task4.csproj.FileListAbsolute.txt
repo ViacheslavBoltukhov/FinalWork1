@@ -1,0 +1,15 @@
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\bin\Debug\net6.0\Program_task4.exe
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\bin\Debug\net6.0\Program_task4.deps.json
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\bin\Debug\net6.0\Program_task4.runtimeconfig.json
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\bin\Debug\net6.0\Program_task4.dll
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\bin\Debug\net6.0\Program_task4.pdb
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.csproj.AssemblyReference.cache
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.AssemblyInfoInputs.cache
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.AssemblyInfo.cs
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.dll
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\refint\Program_task4.dll
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.pdb
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\Program_task4.genruntimeconfig.cache
+E:\GeekBrains\Четверть1\FinalWork1\Program_task4\obj\Debug\net6.0\ref\Program_task4.dll
